@@ -1,0 +1,5 @@
+m=int(input())
+points=1
+for i in range(m):
+    points+=(5*i)
+print(points)
